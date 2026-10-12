@@ -92,6 +92,6 @@ st.pyplot(fig)
 st.markdown('---')
 st.markdown(
     '<p style="text-align: center; color: gray; font-size: 12px;">Họ và tên:'
-    ' [Họ tên của bạn] - MSSV: [MSSV của bạn]</p>',
+    ' [Dương Như Thịnh] - MSSV: [034208012416]</p>',
     unsafe_allow_html=True,
 )
